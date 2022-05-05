@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen 02</string>
+    <string name="textView_Pregunta">Pregunta</string>
+    <string name="boton_verdadero" />
+    <string name="boton_verdad">Verdadero</string>
+    <string name="boton_falso">Falso</string>
+    <string name="boton_atras">Atras</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="textView_cuestionario">PREGUNTAS DE UN CUESTIONARIO</string>
+    <string name="boton_cerrar">Cerrar</string>
+</resources>
